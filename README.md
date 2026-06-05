@@ -119,9 +119,9 @@ This project applies statistical and probabilistic reasoning to draw business in
 
 | Test | Result |
 |---|---|
-| Shingle A vs 0.35 standard | Update after running `generate_charts_smdm.py` |
-| Shingle B vs 0.35 standard | Update after running `generate_charts_smdm.py` |
-| A vs B equality of means | Update after running `generate_charts_smdm.py` |
+| Shingle A vs 0.35 standard | t = -1.47, p = 0.1496 → **Fail to reject H₀** — Shingle A meets the moisture standard |
+| Shingle B vs 0.35 standard | t = -3.10, p = 0.0042 → **Fail to reject H₀** — Shingle B meets the moisture standard |
+| A vs B equality of means | t = 1.29, p = 0.2017 → **Fail to reject H₀** — No significant difference between batches |
 
 > Run `python generate_charts_smdm.py` — the script prints exact t-statistics, p-values, and conclusions to your terminal.
 
