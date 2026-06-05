@@ -56,16 +56,16 @@ This project applies statistical and probabilistic reasoning to draw business in
 ### Visualisations
 
 **Mean Spend by Region**
-![Spend by Region](images/01_spend_by_region.png)
+![Spend by Region](01_spend_by_region.png)
 
 **Mean Spend by Channel**
-![Spend by Channel](images/02_spend_by_channel.png)
+![Spend by Channel](02_spend_by_channel.png)
 
 **Product Variability (Coefficient of Variation)**
-![Variability](images/03_variability_cv.png)
+![Variability](03_variability_cv.png)
 
 **Outlier Detection (Box Plots)**
-![Outliers](images/04_boxplot_outliers.png)
+![Outliers](04_boxplot_outliers.png)
 
 ---
 
@@ -85,13 +85,13 @@ This project applies statistical and probabilistic reasoning to draw business in
 ### Visualisations
 
 **GPA Distribution**
-![GPA Distribution](images/05_gpa_distribution.png)
+![GPA Distribution](05_gpa_distribution.png)
 
 **Categorical Breakdown**
-![Survey Categorical](images/06_survey_categorical.png)
+![Survey Categorical](06_survey_categorical.png)
 
 **95% Confidence Intervals — Key Variables**
-![Confidence Intervals](images/07_confidence_intervals.png)
+![Confidence Intervals](07_confidence_intervals.png)
 
 ---
 
@@ -128,10 +128,10 @@ This project applies statistical and probabilistic reasoning to draw business in
 ### Visualisations
 
 **Moisture Content Distribution — A vs B**
-![Shingles Distribution](images/08_shingles_distribution.png)
+![Shingles Distribution](08_shingles_distribution.png)
 
 **Box Plot Comparison**
-![Shingles Boxplot](images/09_shingles_boxplot.png)
+![Shingles Boxplot](09_shingles_boxplot.png)
 
 ---
 
